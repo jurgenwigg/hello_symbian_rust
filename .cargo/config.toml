@@ -1,0 +1,2 @@
+[build]
+target = "narm-unknown-linux-gnueabihf"
